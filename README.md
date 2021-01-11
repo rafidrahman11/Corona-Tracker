@@ -9,5 +9,7 @@ This React web application displays worldwide stats related to COVID-19. By sele
 3) npm install
 4) npm run
 
-### Go to http://localhost:3000/ to visit the application
+Go to http://localhost:3000/ to visit the application
+
+### Live Project link -> https://worldwide-corona-tracker.web.app
 
