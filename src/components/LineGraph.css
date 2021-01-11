@@ -1,0 +1,9 @@
+.linegraph {
+  width: 100%;
+  height: 300px;
+  margin-top: 15px;
+}
+
+.linegraph__line {
+  height: 100%;
+}

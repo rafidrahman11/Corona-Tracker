@@ -1,0 +1,7 @@
+.infobox {
+  flex: 1;
+}
+
+.infobox__card {
+  height: 100%;
+}

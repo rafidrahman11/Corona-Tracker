@@ -1,0 +1,10 @@
+.tabledata {
+  max-height: 400px;
+  overflow: scroll;
+  margin-bottom: 15px;
+}
+
+.tabledata__row {
+  display: flex;
+  justify-content: space-between;
+}
